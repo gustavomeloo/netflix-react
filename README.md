@@ -5,6 +5,8 @@ Netflix Interface is a small clone of the Netflix.<br>
 This project was made in react using movies and series api, this one is especially focused on the animation used by Netflix.
 </p>
 
+<img src="/preview/previewNetflix.gif" width="100%"/>
+
 ## Tech stack & Open-source libraries
 
 - [React](https://reactjs.org/) based
